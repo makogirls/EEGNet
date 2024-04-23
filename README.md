@@ -3,13 +3,6 @@
 This repository details the project for the 2023 Yonsei University Digital Healthcare Bootcamp (2023/01/16-2023/01/18).
 The project's aim was to diagnose epileptic seizures and tumors using EEG signal classification.
 
-## Table of Contents
-1. [Motivation](#motivation)
-2. [Dataset Overview and Preprocessing](#dataset-overview-and-preprocessing)
-3. [Model Selection](#model-selection)
-4. [Visualization](#visualization)
-5. [Conclusions](#conclusions-and-recommendations)
-
 ## Motivation
 The background of this project lies in the significance of EEG (Electroencephalogram) signals in the early detection and diagnosis of epileptic seizures and brain tumors. Despite the complexities and noise present in EEG data, the development of robust models for analysis and visualization can enhance diagnostic accuracy.
 
