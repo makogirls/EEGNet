@@ -46,18 +46,6 @@ The project team implemented several strategies to enhance model accuracy:
 
 Further suggestions include exploring deep learning approaches for the Tumor Region Detection model and increasing the number of principal components in PCA to identify more characteristics of EEG signals related to brain tumors.
 
-## Roles and Responsibilities
-- Seo Hyeong-seok & Ha Yu-min: Importance of the topic, data loading, and preprocessing.
-- Lee Ji-won: Data preprocessing.
-- Jeong Jae-won: Model setting and visualization.
-
-## Acknowledgments
-We express our gratitude to the sources that made this project possible, including the dataset providers on Kaggle and the research materials referenced.
-
-## Source References
+## References
 - [Fundamentals of EEG measurement by Michal Teplan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3201657/)
 - [Prediction of epileptic seizures by Brian Litt and Javier Echauz](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(02)00075-1/fulltext)
-- Additional references detailed in the PowerPoint slides.
-
-## Conclusion
-The findings of this project underscore the potential of machine learning in medical diagnostics. With accurate models, EEG data can become a more widely used tool for the early detection of epileptic seizures and brain tumors.
