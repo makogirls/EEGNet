@@ -1,6 +1,6 @@
 # Diagnosis of Epileptic Seizure and Tumor with EEG Classification
 
-This repository details the project conducted during the 2023 Yonsei University Digital Healthcare Bootcamp (2023/01/16-2023/01/18).
+This repository details the project for the 2023 Yonsei University Digital Healthcare Bootcamp (2023/01/16-2023/01/18).
 The project's aim was to diagnose epileptic seizures and tumors using EEG signal classification.
 
 ## Table of Contents
