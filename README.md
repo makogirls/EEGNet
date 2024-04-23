@@ -8,7 +8,7 @@ The project's aim was to diagnose epileptic seizures and tumors using EEG signal
 2. [Dataset Overview and Preprocessing](#dataset-overview-and-preprocessing)
 3. [Model Selection](#model-selection)
 4. [Visualization](#visualization)
-5. [Conclusions and Recommendations](#conclusions-and-recommendations)
+5. [Conclusions](#conclusions-and-recommendations)
 
 ## Motivation
 The background of this project lies in the significance of EEG (Electroencephalogram) signals in the early detection and diagnosis of epileptic seizures and brain tumors. Despite the complexities and noise present in EEG data, the development of robust models for analysis and visualization can enhance diagnostic accuracy.
@@ -38,7 +38,7 @@ A variety of machine learning models were trained and tested, maintaining the cl
 ## Visualization
 Results were visualized to synthesize the performances of various models on both seizure and tumor data.
 
-## Conclusions and Recommendations
+## Conclusions
 The project team implemented several strategies to enhance model accuracy:
 - Data preprocessing improvements
 - Hyperparameter tuning with machine learning models
