@@ -43,9 +43,3 @@ The project team implemented several strategies to enhance model accuracy:
 - Data preprocessing improvements
 - Hyperparameter tuning with machine learning models
 - Cross-validation techniques
-
-Further suggestions include exploring deep learning approaches for the Tumor Region Detection model and increasing the number of principal components in PCA to identify more characteristics of EEG signals related to brain tumors.
-
-## References
-- [Fundamentals of EEG measurement by Michal Teplan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3201657/)
-- [Prediction of epileptic seizures by Brian Litt and Javier Echauz](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(02)00075-1/fulltext)
