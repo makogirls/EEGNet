@@ -1,1 +1,1 @@
-# Diagnosis of Epileptic Seizure and Tumor with EEG Classification
+# Epileptic Seizure and Tumor Detection from EEG
